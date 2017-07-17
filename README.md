@@ -14,6 +14,9 @@ The only things that had to be changed after creating the app using `activator n
 * `app/views/*`
 * `/conf/routes`
 
+
+
+
 ## Adding bootstrap
 
 
